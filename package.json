@@ -1,1 +1,15 @@
-੻†渢浡≥›爢湥敤⵲業敮汦祡牥戭瑯Ⱒ ∠敶獲潩≮›ㄢ〮〮Ⱒ ∠敤捳楲瑰潩≮›䴢湩晥慬敹⁲䙁⁋潢⁴潦⁲敒摮牥栠獯楴杮Ⱒ ∠慭湩㨢∠湩敤⹸獪Ⱒ ∠捳楲瑰≳›੻††猢慴瑲㨢∠潮敤戠潯獴牴灡樮≳ 素ਬ†攢杮湩獥㨢笠 †∠潮敤㨢∠㴾㠱ਢ†ⱽ ∠敤数摮湥楣獥㨢笠 †∠業敮汦祡牥㨢∠慬整瑳ਢ†੽੽
+{
+  "name": "render-mineflayer-bot",
+  "version": "1.0.0",
+  "description": "Mineflayer AFK bot for Render hosting",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bootstrap.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "mineflayer": "latest"
+  }
+}
