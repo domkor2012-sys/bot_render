@@ -4,7 +4,7 @@
   "description": "Mineflayer AFK bot for Render hosting",
   "main": "index.js",
   "scripts": {
-    "start": "node bootstrap.js"
+    "start": "node index.js"
   },
   "engines": {
     "node": ">=18"
